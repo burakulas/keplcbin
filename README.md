@@ -21,6 +21,7 @@ The script needs:
 
 
 
+
 Usage:
 
 . Put all Kepler .fits files you want to combine and bin to the same folder with the keplcnorm.py script (Do not change the original name of the fits file).
@@ -39,11 +40,13 @@ Usage:
 
 
 
+
 Notes: . Beginning from the second run, the program asks the user for deleting the output files from the previous run. The user should enter y(yes) and confirm the deletion to proceed.
 
 . MAGREGMAG word in the code is the abbreviation for the subtraction of magnitude values from the linear fit.
 
 . The fluxes (F) are converted to magnitude values by using the equation -2.5LOG(F)
+
 
 
 
