@@ -37,7 +37,7 @@ An application:
 . Enter 0.2429038 as the period (http://keplerebs.villanova.edu/overview/?k=7871200)
 . Enter the desired number of bins in the output file. Say 100.
 . Enter the dispersion amount. For 1sigma, enter 1.
-. Check the output file binlc.dat.
+. Check the output file binlc.dat. (see Figure 1 in repository)
 
 
 
