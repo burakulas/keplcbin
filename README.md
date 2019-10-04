@@ -51,6 +51,7 @@ Notes: . Beginning from the second run, the program asks the user for deleting t
 
 
 An application:
+
 . Download all available fits file of the binary system KIC 7871200 and put all fits file in the same folder with the keplcbin.py. (https://archive.stsci.edu/kepler/data_search/search.php)
 
 . Run the script by typing python keplcbin.py. (Assuming that your default Python version is 2.x)
