@@ -64,7 +64,7 @@ An application:
 
 . Enter the dispersion amount. For 1sigma, enter 1.
 
-. Check the output file binlc.dat. (see Figure 1 in repository)
+. Check the output file binlc.dat. (see Figure 1 in repository, keplcbin.png)
 
 
 When used the script, you may want to give reference to its GitHub address: https://github.com/burakulas/keplcbin
