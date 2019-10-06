@@ -67,5 +67,11 @@ An application:
 . Check the output file binlc.dat. (see Figure 1 in repository)
 
 
+When used the script, you may want to give reference to its GitHub address: https://github.com/burakulas/lcsplit
+
+
+For comments and further questions: bulash@gmail.com
+
+
 
 
