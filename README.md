@@ -24,7 +24,7 @@ The script needs:
 
 Usage:
 
-. Put all Kepler .fits files you want to combine and bin to the same folder with the keplcnorm.py script (Do not change the original name of the fits file).
+. Put all Kepler .fits files you want to combine and bin to the same folder with the keplcbin.py script (Do not change the original name of the fits file).
 
 . Since the script runs under Python 2.x it is recommended to check your default python version by typing python -V
 
