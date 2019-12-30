@@ -6,7 +6,7 @@ KEPLCBIN.py works on Python 2.x without any error. It may need a series of modif
 
 
 
-The script needs:
+# The script needs:
 
 . astropy.io.fits package
 
